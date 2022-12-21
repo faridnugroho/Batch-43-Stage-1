@@ -1,0 +1,5 @@
+Margin : jarak dari element ke luar.
+Padding : jarak dari element kedaalam
+
+hirarki css
+inline css, id, class, tag

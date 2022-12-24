@@ -1,0 +1,31 @@
+form {
+    width: 350px;
+    margin: 50px auto;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    background-color: #dfdede;
+    border: 1px solid #dbdbdb;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+label {
+    font-weight: bold;
+}
+
+textarea {
+    resize: none
+}
+
+button {
+    background-color: orangered;
+    border: none;
+    color: white;
+    padding: 6px 25px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
